@@ -1,3 +1,3 @@
 # KOU-Paint
 
-Paint App with C
+Paint App with C allegro5
